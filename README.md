@@ -1,39 +1,167 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amaël%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
 
-[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://amaeldev.netlify.app)
-<h1 align="center">Hi 👋, I'm Amaël Rosales</h1>
-<h3 align="center">A passionate Fullstack Web Developer React | NodeJS from France</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistics+%26+Programming+Student+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SlimDumbledodge&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SlimDumbledodge?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Location-Montpellier%2C%20France-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosales-amael&label=Profile%20views&color=0e75b6&style=flat" alt="rosales-amael" /> </p>
+<br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=SlimDumbledodge&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlimDumbledodge&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlimDumbledodge&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
+</div>
 
-- 🔭 I’m currently working on [Cooking Recipes Front](https://github.com/Rosales-Amael/Cooking-Recipes-Frontend) & [Cooking Recipes Back](https://github.com/Rosales-Amael/Cooking-Recipes-Backend)
+<br>
 
-- 🌱 I’m currently learning **Typescript**
+<br>
 
-- 👨‍💻 All of my projects are available at [amaeldev.netlify.app](https://amaeldev.netlify.app)
+## 🚀 Featured Projects
 
-- 💬 Ask me about **React & NodeJS**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🤖-NLP%20Sentiment%20Analyzer-58A6FF?style=for-the-badge&logo=openai&logoColor=white" alt="NLP Project"/>
+        <br><br>
+        <strong>Real-time sentiment analysis with transformer models</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="BERT"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📊-Bayesian%20ML%20Pipeline-58A6FF?style=for-the-badge&logo=anaconda&logoColor=white" alt="ML Pipeline"/>
+        <br><br>
+        <strong>End-to-end Bayesian ML pipeline with statistical validation</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/PyMC3-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="PyMC3"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏥-Medical%20Graph%20RAG-58A6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG System"/>
+        <br><br>
+        <strong>Graph-based retrieval augmented generation for medical data</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=networkx&logoColor=white" alt="NetworkX"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📫 How to reach me **amael.rosales@gmail.com**
+<br>
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1R5N0tr_nKKNcRTdkTLkhAw7viCBMdmhv/view)
+## 📊 Development Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlimDumbledodge&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+</div>
 
-- ⚡ Fun fact **I think i can't work without drinking coffee**
+## ⏱️ Weekly Coding Time
+<!--START_SECTION:waka-->
 
+```txt
+R            73 hrs 57 mins  ██████████████████░░░░░░░   72.50 %
+Python       23 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+RMarkdown    1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other        1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+YAML         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amael-rosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amael-rosales" height="30" width="40" /></a>
-</p>
+<!--END_SECTION:waka-->
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactbootstrap" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
+## 🎯 Current Focus
 
- </p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🧠-Deep%20Learning%20Architectures-58A6FF?style=for-the-badge" alt="Deep Learning"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🔤-Natural%20Language%20Processing-58A6FF?style=for-the-badge" alt="NLP"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/👁️-Computer%20Vision-58A6FF?style=for-the-badge" alt="Computer Vision"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/📊-Bayesian%20Statistics-58A6FF?style=for-the-badge" alt="Bayesian Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🤖-Large%20Language%20Models-58A6FF?style=for-the-badge" alt="LLMs"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🎨-Generative%20AI-58A6FF?style=for-the-badge" alt="Generative AI"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/⚙️-MLOps%20&%20Deployment-58A6FF?style=for-the-badge" alt="MLOps"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🔬-Statistical%20Inference-58A6FF?style=for-the-badge" alt="Statistical Inference"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosales-amael&show_icons=true&locale=en&layout=compact" alt="rosales-amael" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosales-amael&" alt="rosales-amael" /></p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <a href="mailto:amael.rosales@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.linkedin.com/in/amael-rosales/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.&author=Cory%20House" alt="Quote"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</div>
