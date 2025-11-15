@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amaël%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amaël%20Rosales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistics+%26+Programming+Student+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Open+to+New+Opportunities+in+Switzerland;Crafting+Scalable+and+Modern+Web+Applications;Passionate+Fullstack+Engineer+(React+%2F+NestJS+%2F+TypeScript);Building+Clean,+Maintainable+and+Performant+Code;Always+Learning,+Always+Improving;" alt="Typing Animation" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SlimDumbledodge&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
@@ -40,38 +41,31 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🤖-NLP%20Sentiment%20Analyzer-58A6FF?style=for-the-badge&logo=openai&logoColor=white" alt="NLP Project"/>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📈-TradeLab%20-%20Virtual%20Trading%20App-58A6FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="TradeLab"/>
         <br><br>
-        <strong>Real-time sentiment analysis with transformer models</strong>
+        <strong>Virtual trading platform using real market data</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="BERT"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-FFB020?style=flat-square" alt="In Progress"/>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/📊-Bayesian%20ML%20Pipeline-58A6FF?style=for-the-badge&logo=anaconda&logoColor=white" alt="ML Pipeline"/>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/💰-LaPince%20-%20Budget%20Manager-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="LaPince"/>
         <br><br>
-        <strong>End-to-end Bayesian ML pipeline with statistical validation</strong>
+        <strong>Personal finance app to manage budgets and expenses easily</strong>
         <br><br>
-        <img src="https://img.shields.io/badge/PyMC3-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="PyMC3"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏥-Medical%20Graph%20RAG-58A6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG System"/>
-        <br><br>
-        <strong>Graph-based retrieval augmented generation for medical data</strong>
-        <br><br>
-        <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=networkx&logoColor=white" alt="NetworkX"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+        <img src="https://img.shields.io/badge/Status-Completed-00D4AA?style=flat-square" alt="Complete"/>
       </td>
     </tr>
   </table>
@@ -83,19 +77,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlimDumbledodge&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
-
-## ⏱️ Weekly Coding Time
-<!--START_SECTION:waka-->
-
-```txt
-R            73 hrs 57 mins  ██████████████████░░░░░░░   72.50 %
-Python       23 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-RMarkdown    1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Other        1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-YAML         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-```
-
-<!--END_SECTION:waka-->
 <br>
 
 ## 🎯 Current Focus
@@ -130,7 +111,7 @@ YAML         45 mins         ▒░░░░░░░░░░░░░░░░
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/SlimDumbledodge/SlimDumbledodge/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br>
