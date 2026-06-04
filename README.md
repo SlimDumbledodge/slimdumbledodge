@@ -60,13 +60,3 @@
 
 ### Currently studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" width="40"/>
-
----
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlimDumbledodge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SlimDumbledodge"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SlimDumbledodge&theme=tokyonight" alt="SlimDumbledodge"/>
-
-</div>
