@@ -1,77 +1,72 @@
-
-
-
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://amaeldev.netlify.app)
 
-<h1 align="center">Hi 👋, I'm Amaël Rosales</h1>
+<div align="center">
 
+# Amaël Rosales
 
-<h3 align="center">A passionate Fullstack Engineer from France !</h3>
+### Full Stack Engineer · Angular · Java · Spring Boot
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-amaeldev.netlify.app-0f3460?style=for-the-badge&logo=netlify&logoColor=white)](https://amaeldev.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amael--rosales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/amael-rosales)
+[![Gmail](https://img.shields.io/badge/Gmail-amael.rosales@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amael.rosales@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View%20experiences-555?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1R5N0tr_nKKNcRTdkTLkhAw7viCBMdmhv/view](https://drive.google.com/file/d/1PnjteuUdKFzSJZ0_rAYqD0HyzmzcoJ22/view?usp=sharing))
 
+</div>
 
+---
 
+<table>
+<tr>
+<td valign="top" width="55%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosales-amael&label=Profile%20views&color=0e75b6&style=flat" alt="rosales-amael" /> </p>
+```text
+🔭  Working on   →  SmartLinguo (AI SaaS)
+🌱  Learning     →  Kubernetes
+📍  Based in     →  France · Open to relocation
+☕  Fun fact     →  Can't ship without coffee
+```
 
+&nbsp;
 
+[![SmartLinguo](https://img.shields.io/badge/▶_Current_project-SmartLinguo-e94560?style=for-the-badge)](https://github.com/SlimDumbledodge/smart-linguo)
 
+</td>
+<td valign="top" width="45%">
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</td>
+</tr>
+</table>
 
+---
 
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on **[Tradelab](https://github.com/SlimDumbledodge/trade-lab)**
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
 
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" width="40"/>
 
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
 
+### Testing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" width="40"/>
 
-- 🌱 I’m currently learning **Java & Angular**
+### Tools & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40"/>
 
+### Currently studying
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" width="40"/>
 
+---
 
-- 👨‍💻 All of my projects are available on my **[Portfolio](https://amaeldev.netlify.app)**
+<div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlimDumbledodge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SlimDumbledodge"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SlimDumbledodge&theme=tokyonight" alt="SlimDumbledodge"/>
 
-
-- 📫 How to reach me **amael.rosales@gmail.com**
-
-
-
-- 📄 Know about my **[experiences](https://drive.google.com/file/d/1R5N0tr_nKKNcRTdkTLkhAw7viCBMdmhv/view)**
-
-
-
-- ⚡ Fun fact **I think i can't work without drinking coffee**
-
-
-### Main skills
-#### Frontend
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,bootstrap,sass,css,html)](https://skillicons.dev)
-
-#### Backend
-[![Backend](https://skillicons.dev/icons?i=nestjs,laravel,nodejs,express,php,graphql,redis,prisma)](https://skillicons.dev)
-
-#### Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
-
-#### Tools & DevOps
-[![Tools & DevOps](https://skillicons.dev/icons?i=docker,git,github,jest,vitest,cypress,wordpress,notion)](https://skillicons.dev)
-
-### Studying
-[![Studying](https://skillicons.dev/icons?i=angular,java,spring)](https://skillicons.dev)
-
-### Connect with me !
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/amael-rosales)
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:amael.rosales@gmail.com)
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SlimDumbledodge&show_icons=true&locale=en&layout=compact" alt="SlimDumbledodge" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SlimDumbledodge&" alt="SlimDumbledodge" /></p>
+</div>
