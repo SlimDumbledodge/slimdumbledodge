@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-amaeldev.netlify.app-0f3460?style=for-the-badge&logo=netlify&logoColor=white)](https://amaeldev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amael--rosales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/amael-rosales)
 [![Gmail](https://img.shields.io/badge/Gmail-amael.rosales@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amael.rosales@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View%20experiences-555?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1R5N0tr_nKKNcRTdkTLkhAw7viCBMdmhv/view](https://drive.google.com/file/d/1PnjteuUdKFzSJZ0_rAYqD0HyzmzcoJ22/view?usp=sharing))
+[![CV](https://img.shields.io/badge/CV-View%20experiences-555?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PnjteuUdKFzSJZ0_rAYqD0HyzmzcoJ22/view?usp=sharing)
 
 </div>
 
